@@ -4,3 +4,5 @@ langchain
 python-dotenv
 langchain-google-community[drive]
 pypdf
+reportlab
+pandas
