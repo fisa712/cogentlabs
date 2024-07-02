@@ -2,3 +2,5 @@ langchain_core
 langchain_openai
 langchain
 python-dotenv
+langchain-google-community[drive]
+pypdf
